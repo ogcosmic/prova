@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(to right,#1f0127, #153c69);
+}
+.titulo1 {
+    font-style: oblique;
+    font-family: monospace;
+    color: azure;
+}
+
+.subtitulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: ;
+    color: aliceblue;
+}
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+}
+.p2 {
+    font-size: 60px;
+    color: aliceblue;
+}
+.titulo3 {
+    color: aliceblue;
+}
+.lista {
+    font-family: cursive;
+    font-style: oblique;
+    color: aliceblue;
+}
+
+.gato {
+    width: 150px;
+}
+
+.site {
+    color: antiquewhite;
+}
